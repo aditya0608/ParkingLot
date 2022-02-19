@@ -7,5 +7,5 @@ import lombok.Setter;
 @Setter
 public class ParkingSpot {
 
-    private SpotStatus spotStatu;
+    private SpotStatus spotStatus;
 }
